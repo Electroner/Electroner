@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Electroner
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning in University of Grenada (UGR,Spain)
