@@ -9,3 +9,7 @@
 - Custom Keyboard with Custom PCB. Se trata de un teclado mecánico hotswap, ISO-105 Español. [Teclado](https://github.com/Electroner/Teclado)
 - Arduino MIFARE key sector bruteforce cracker.[MIFARE Sector Key Cracker](https://github.com/Electroner/MIFARE-Sector-Key-Cracker)
 - Image .bmp Editor that let you resize crop and change the colors and get some statistics about the image. [Image Editor](https://github.com/Electroner/SimpleImageEditor)
+
+## Social Networks
+
+<a href="https://www.linkedin.com/in/carlos-lópez-martínez-49a083227">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
