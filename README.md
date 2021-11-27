@@ -4,3 +4,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Electroner&show_icons=true&theme=tokyonight)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Electroner&layout=compact&theme=tokyonight)
+
+## My projects
+- Custom Keyboard with Custom PCB. Se trata de un teclado mecánico hotswap, ISO-105 Español. [Teclado](https://github.com/Electroner/Teclado)
