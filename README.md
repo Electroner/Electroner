@@ -13,3 +13,5 @@
 ## Social Networks
 
 <a href="https://www.linkedin.com/in/carlos-lópez-martínez-49a083227">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<a href="https://twitter.com/clm_2001">![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fclm_2001)</a>
