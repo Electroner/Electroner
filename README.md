@@ -8,6 +8,7 @@
 ## My projects
 - Custom Keyboard with Custom PCB.Mechanical keyboard hotswap, ISO-105 Español. [Teclado](https://github.com/Electroner/Teclado)
 - Arduino MIFARE key sector bruteforce cracker. [MIFARE Sector Key Cracker](https://github.com/Electroner/MIFARE-Sector-Key-Cracker)
+- Wordle Solver - Helper that has all parameters to solve any wordle. [Wordle Solver](https://github.com/Electroner/WORDLE_SOLVER)
 - Image .bmp Editor that let you resize crop and change the colors and get some statistics about the image. [Image Editor](https://github.com/Electroner/SimpleImageEditor)
 
 ## Social Networks
