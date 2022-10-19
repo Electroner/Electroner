@@ -1,9 +1,12 @@
 # Carlos Lopez Martinez
+
+<p align="center">
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Electroner&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Electroner&show_icons=true&theme=tokyonight)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Electroner&layout=compact&theme=tokyonight)
+</p>
 
 ## My projects
 - Custom Keyboard with Custom PCB.Mechanical keyboard hotswap, ISO-105 Español. [Teclado](https://github.com/Electroner/Teclado)
