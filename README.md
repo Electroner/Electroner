@@ -18,7 +18,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy]([https://github-profile-trophy.vercel.app/?username=Electroner&theme=discord](https://github-profile-trophy.vercel.app/?username=Electroner&theme=discord&no-frame=true&no-bg=false&row=2&column=3))](https://github.com/Electroner/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Electroner&theme=discord&no-frame=true&no-bg=false&row=2&column=3)
 
 ## My projects
 - Custom Keyboard with Custom PCB.Mechanical keyboard hotswap, ISO-105 Español. [Teclado](https://github.com/Electroner/Teclado)
