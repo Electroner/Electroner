@@ -1,9 +1,9 @@
 # Carlos Lopez Martinez
 
 <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electroner&layout=compact&theme=tokyonight" alt="electroner-github" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Electroner&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="electroner-github" />
   <img src="https://github-readme-stats.vercel.app/api?username=Electroner&show_icons=true&theme=tokyonight" alt="electroner-github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electroner&layout=compact&theme=tokyonight" alt="electroner-github" />
 </p>
 
 ## My projects
