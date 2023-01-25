@@ -17,6 +17,9 @@
    </a> 
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Electroner&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 ## My projects
 - Custom Keyboard with Custom PCB.Mechanical keyboard hotswap, ISO-105 Español. [Teclado](https://github.com/Electroner/Teclado)
 - Arduino MIFARE key sector bruteforce cracker. [MIFARE Sector Key Cracker](https://github.com/Electroner/MIFARE-Sector-Key-Cracker)
