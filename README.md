@@ -35,6 +35,9 @@
    <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> 
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" width="40" height="40"/> 
   </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="Visual Studio Code" width="40" height="40"/> 
+  </a> 
 </p>
 
 ## 🏆 GitHub Trophies
