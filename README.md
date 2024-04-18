@@ -66,5 +66,5 @@
 
 <a href="https://twitter.com/clm_2001">![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
-![This gif isnt mine]()
+![This gif isnt mine](https://github.com/Electroner/Electroner/blob/main/Gif3.gif)
 ###### (I got it from joyreactor)
