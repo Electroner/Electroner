@@ -61,11 +61,10 @@
 - A complete GUI image Editor based on OpenGL and ImGui. [Feather](https://github.com/Electroner/Feather)
 
 ## Social Networks
-
+<p align="center"> 
 <a href="https://www.linkedin.com/in/carlos-lópez-martínez-49a083227">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 <a href="https://twitter.com/clm_2001">![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)</a>
-
+</p>
 <p align="center">
   <img src="https://github.com/Electroner/Electroner/blob/main/Gif3.gif" alt="THIS IMAGE ISNT MINE IS FROM Joyreactor">
 </p>
