@@ -58,7 +58,6 @@
 
 ## Current Projects Im working on
 
-- Custom Keyboard with Custom PCB. Mechanical keyboard hotswap, ISO-105 Español. OLED and BLE connectivity [ModernWood](https://github.com/Electroner/ModernWood)
 - A complete GUI image Editor based on OpenGL and ImGui. [Feather](https://github.com/Electroner/Feather)
 
 ## Social Networks
